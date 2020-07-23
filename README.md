@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Josias Aurel
 
 
-- 🔭 I’m currently working on KitsHive
+- 🔭 I’m currently working on KitsHive, Pika, Haboard
 - 🌱 I’m currently learning Python, JavaScript, Web frameworks (Vue, Django, Flask)
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Coding && Programming
