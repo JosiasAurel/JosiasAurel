@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/JosiasWing?s=09) [Email](ndjosiasaurel@gmail.com)
 - ⚡ Fun fact: I write bugs
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josiasaurel)](https://github.com/anuraghazra/github-readme-stats)
