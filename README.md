@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on KitsHive, Pika, Haboard
-- 🌱 I’m currently learning Python, JavaScript, Web frameworks (Vue, Django, Flask)
+- 🌱 I’m currently learning Python, JavaScript, Web frameworks (Vue && React, Django, Flask, NodeJS)
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Coding && Programming
 - 📫 How to reach me: [Email](ndjosiasaurel@gmail.com)
