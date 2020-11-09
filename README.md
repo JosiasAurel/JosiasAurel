@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Josias Aurel
 
 
-- 🔭 I’m currently working on KitsHive, Pika, CropBoard
+- 🔭 I’m currently working on Pika, CropBoard
 - 🌱 I’m currently learning Python, JavaScript, Web frameworks (Vue && React, Django, Flask, NodeJS)
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Coding && Programming
