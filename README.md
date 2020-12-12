@@ -1,3 +1,6 @@
+
+![Josias](jos.png)
+
 ### Hi there 👋, I am Josias Aurel
 
 
