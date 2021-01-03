@@ -1,14 +1,18 @@
 
-![Josias](jos.png)
 
 ### Hi there 👋, I am Josias Aurel
 
+I am a self-taught developer full stack developer also in Game development, machine learning and AI.
+I usually code on daily basis building random projects and having fun ;)
 
-- 🔭 I’m currently working on Pika, CropBoard
-- 🌱 I’m currently learning Python, JavaScript, Web frameworks (Vue && React, Django, Flask, NodeJS)
-- 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about Coding && Programming
-- 📫 How to reach me: [Email](ndjosiasaurel@gmail.com), [Twitter](https://twitter.com/JosiasWing?s=09)
+I Collaborate on open source projects .
+
+- Ask me about Coding && Programming
+You can email me here [ndjosiasaurel@gmail.com](ndjosiasaurel@gmail.com)
+
+Also find me on [Twitter](https://twitter.com/JosiasWing?s=09). That is where I usually hangout.
+
+
 - ⚡ Fun fact: I write bugs
 **Languages and Tools:**  
 
