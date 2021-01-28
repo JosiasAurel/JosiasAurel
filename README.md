@@ -13,7 +13,7 @@ You can email me here [ndjosiasaurel@gmail.com](ndjosiasaurel@gmail.com)
 Also find me on [Twitter](https://twitter.com/JosiasWing?s=09). That is where I usually hangout.
 
 
-- ⚡ Fun fact: I write bugs
+* ⚡ Fun fact: I write bugs *
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
