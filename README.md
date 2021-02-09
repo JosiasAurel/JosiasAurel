@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://josiasaurel.tech/josias.png" width="250px" height="250px" />
-</div>
+
+<img src="https://josiasaurel.tech/josias.png" width="250px" height="250px" style="display: block; margin-left: auto; margin-right: auto;" />
+
 
 ### Hi there 👋, I am Josias Aurel
 
