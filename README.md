@@ -1,4 +1,5 @@
 
+<img src="https://josiasaurel.tech/josias.png" width="250px" height="250px" />
 
 ### Hi there 👋, I am Josias Aurel
 
