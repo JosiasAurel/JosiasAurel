@@ -1,5 +1,5 @@
 
-<img src="https://josiasaurel.tech/josias.png" width="250px" height="250px" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://raw.githubusercontent.com/JosiasAurel/JosiasAurel/master/Screenshot_2021-02-15-19-00-14-0757216092.png" width="250px" height="250px" style="display: block; margin-left: auto; margin-right: auto;" />
 
 
 ### Hi there 👋, I am Josias Aurel
