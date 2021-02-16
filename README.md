@@ -19,6 +19,6 @@ Also find me on [Twitter](https://twitter.com/JosiasWing?s=09). That is where I 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josiasaurel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasaurel&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiasaurel&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
