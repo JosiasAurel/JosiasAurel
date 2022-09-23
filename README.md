@@ -1,18 +1,19 @@
 
-## Maker In The Making
+## Build & Learn
 
-### Hi there 👋, I am Josias Aurel
+I love to learn by building projects and tinkering with stuff. I am interested and currently learning about Machine Learning and Low level programming using C and Rust. Also, I am a somewhat experienced full-stack web developer and have built and hosted large projects using my current favorite stack;
 
-I am a self-taught developer full stack developer also in Game development, machine learning and AI.
-I usually code on daily basis building random projects and having fun ;)
+- React
+- Next.js
+- TypeScript
+- GraphQL
+- Python
+- Planetscale/Deta
+- Prisma
+- Express
+- Apollo Server/Client
 
-I Collaborate on open source projects .
+I am on GitHub to share my projects and sometimes contribute to open source.
 
-- Ask me about Coding && Programming
-You can email me here [josias@josiasw.dev](josias@josiasw.dev)
-
-Also find me on [Twitter](https://twitter.com/JosiasWing?s=09). That is where I usually hangout.
-
-
-*⚡ Fun fact: I write bugs*
-
+I like challenges but I am sometimes too shy to ask 😅
+I like working on fun and exciting projects.
