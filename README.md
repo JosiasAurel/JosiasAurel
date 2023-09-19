@@ -1,11 +1,8 @@
 
 ## I learn to build & build for fun😊
 
-I love to learn by building projects and tinkering with stuff. I am interested and currently teaching myself Machine Learning and game Dev, programming using C/C++, Zig and Rust. Also, I am an experience web developer using TypeScript, Nodejs and React. I'm quite good at Python as well.
+I love to learn by building projects and tinkering with stuff. I am interested and currently teaching myself Machine Learning and systems programming, using C, Zig and Rust. I also have some experience building full-stack web applications using JavaScript/TypeScript, React, Node.js and Next.js. I mostly do scripting with python and also use it for machine learning and data-related projects.
 
-
-I like challenges but I am sometimes too shy to ask 😅 -- send some my way UwU.
-
-I like working on fun and exciting projects.
+I like working on fun, exciting and challenging projects.
 
 Find me on [Twitter](https://twitter.com/JosiasWing)
